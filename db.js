@@ -5,4 +5,3 @@ let users = [
 ];
 
 module.exports = { users };
->>>>>>> ebeedc8 (Atividades avaliativa parte 1 e 2)
